@@ -1,0 +1,110 @@
+# Yuki Jewellery — Generative Engine Optimization Map
+
+> Yuki Jewellery is a premium online jewelry brand offering gold pieces (14K and 18K) adorned with natural diamonds, all inspired by dog-themed motifs such as paw prints and bones. The brand blends warmth and playfulness — celebrating the bond between people and their dogs — with a refined, luxurious aesthetic. The website vision is clean, bright, and inviting while maintaining a professional and serious tone. The store is concise and focused, making the shopping experience elegant and straightforward.
+
+---
+
+## Pages
+
+### בית
+https://yuki-jewellery-56b31f89.zappy5.app
+תכשיטי זהב 14K ו-18K עם יהלומים טבעיים בעיצוב טביעות רגל ועצמות לכלבים. כנסו עכשיו לאתר התכשיטים המוביל ותנו לאהבה שלכם לנצוץ.
+
+### אודות
+https://yuki-jewellery-56b31f89.zappy5.app/about
+הכירו את Yuki Jewellery – מותג תכשיטי זהב ויהלומים שנולד מאהבה לכלבים. קראו על החזון שלנו שמשלב יוקרה נקייה עם חמימות משחקית.
+
+### חומרים
+https://yuki-jewellery-56b31f89.zappy5.app/materials
+גלו את החומרים שמרכיבים את התכשיטים שלנו: זהב 14K ו-18K ויהלומים טבעיים. היכנסו ללמוד על האיכות הבלתי מתפשרת שמאחורי כל פריט.
+
+### שאלות נפוצות
+https://yuki-jewellery-56b31f89.zappy5.app/faq
+שאלות נפוצות על תכשיטי Yuki Jewellery: טיפול בזהב, מידות, משלוחים והחזרות. לחצו לקבלת תשובות מהירות שיעשו לכם סדר לפני הקנייה.
+
+### צור קשר
+https://yuki-jewellery-56b31f89.zappy5.app/contact
+צרו קשר עם Yuki Jewellery לכל שאלה על תכשיטי הזהב והיהלומים שלנו. אנחנו כאן כדי להפוך את חוויית הקנייה שלכם לקלה ומהנה – כתבו לנו עכשיו.
+
+### Products
+https://yuki-jewellery-56b31f89.zappy5.app/products
+המוצרים שלנו - Yuki Jewellery
+
+### Cart
+https://yuki-jewellery-56b31f89.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://yuki-jewellery-56b31f89.zappy5.app/checkout
+תשלום
+
+### Login
+https://yuki-jewellery-56b31f89.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://yuki-jewellery-56b31f89.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://yuki-jewellery-56b31f89.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://yuki-jewellery-56b31f89.zappy5.app/product/:slug
+פרטי המוצר - Yuki Jewellery
+
+### Category
+https://yuki-jewellery-56b31f89.zappy5.app/category/:slug
+מוצרים - Yuki Jewellery
+
+### תודה רבה | Yuki Jewellery
+https://yuki-jewellery-56b31f89.zappy5.app/thank-you
+Yuki Jewellery - תודה רבה | Yuki Jewellery
+
+## Legal & Policy
+
+### Privacy Policy
+https://yuki-jewellery-56b31f89.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yuki-jewellery-56b31f89.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yuki-jewellery-56b31f89.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Yuki Jewellery
+Yuki Jewellery is a premium online jewelry brand offering gold pieces (14K and 18K) adorned with natural diamonds, all inspired by dog-themed motifs such as paw prints and bones. The brand blends warmth and playfulness — celebrating the bond between people and their dogs — with a refined, luxurious aesthetic. The website vision is clean, bright, and inviting while maintaining a professional and serious tone. The store is concise and focused, making the shopping experience elegant and straightforward.
+
+## Target Audience
+- אוהבי כלבים ובעלי כלבים המחפשים תכשיטים יוקרתיים
+- אוהבי כלבים יוקרתיים
+- מחפשי מתנות יוקרתיות
+- משפיעניות אופנה
+- תכשיטים
+
+## Industry
+E-commerce Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://yuki-jewellery-56b31f89.zappy5.app/sitemap.xml
+- Robots: https://yuki-jewellery-56b31f89.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yuki-jewellery-56b31f89.zappy5.app/llms-full.txt
+- Products (JSON): https://yuki-jewellery-56b31f89.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yuki-jewellery-56b31f89.zappy5.app/product-feed.xml
